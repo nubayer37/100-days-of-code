@@ -11,7 +11,10 @@
 
 
 
-
+   2026-11-08 — Day 1
+   Built: setup done, first lesson exercises, nameplate script
+   Blocked: variable got overwritten (voltage_kv 11 → 33)
+   Tomorrow: numbers, input(), math module
 
 
 
