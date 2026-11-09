@@ -18,7 +18,10 @@
 
 
 
-
+  2026-11-09 - Day 2
+  Built: 3-phase current calculator
+  Blocked: (whatever slowed you down)
+  Tomorrow: if/elif/else, insulation-resistance checker
 
 
 
