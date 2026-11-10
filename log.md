@@ -25,5 +25,8 @@
 
 
 
-
+  2026-11-10 - Day 3
+  Built: insulation-resistance checker with 3 bands
+  Blocked: (whatever slowed you down)
+  Tomorrow: loops (for, while, range)
 
